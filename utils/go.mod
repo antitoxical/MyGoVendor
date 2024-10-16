@@ -1,3 +1,3 @@
 module github.com/antitoxical/MyGoVendor
 
-go 1.23.1
+go 1.1.0
